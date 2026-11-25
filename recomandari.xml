@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<gpus>
+
+	<gpu>
+		<name>RTX 5090</name>
+		<cpu>Intel Core i9-14900KS / Ryzen 9 9950X</cpu>
+		<passmark>38958</passmark>
+		<fps gta5="220" cs2="600" cyberpunk="180"/>
+	</gpu>
+
+	<gpu>
+		<name>RTX 5080</name>
+		<cpu>Intel Core i9-14900K / Ryzen 9 9900X</cpu>
+		<passmark>35700</passmark>
+		<fps gta5="200" cs2="520" cyberpunk="150"/>
+	</gpu>
+
+	<gpu>
+		<name>RTX 5070</name>
+		<cpu>Intel Core i7-14700K / Ryzen 7 9700X</cpu>
+		<passmark>28739</passmark>
+		<fps gta5="170" cs2="450" cyberpunk="120"/>
+	</gpu>
+
+	<gpu>
+		<name>RTX 5070 Ti</name>
+		<cpu>Intel Core i7-14700K / Ryzen 7 9700X</cpu>
+		<passmark>32415</passmark>
+		<fps gta5="185" cs2="480" cyberpunk="130"/>
+	</gpu>
+
+	<gpu>
+		<name>RTX 5060</name>
+		<cpu>Intel Core i5-14600K / Ryzen 5 9600X</cpu>
+		<passmark>20776</passmark>
+		<fps gta5="140" cs2="380" cyberpunk="95"/>
+	</gpu>
+
+	<gpu>
+		<name>RTX 5060 Ti</name>
+		<cpu>Intel Core i5-14600K / Ryzen 5 9600X</cpu>
+		<passmark>22635</passmark>
+		<fps gta5="155" cs2="400" cyberpunk="105"/>
+	</gpu>
+
+	<gpu>
+		<name>RTX 5050</name>
+		<cpu>Intel Core i5-14400F / Ryzen 5 7600</cpu>
+		<passmark>17110</passmark>
+		<fps gta5="120" cs2="300" cyberpunk="80"/>
+	</gpu>
+
+	<gpu>
+		<name>Intel Arc 580</name>
+		<cpu>Intel Core i5-13400F / Ryzen 5 5600</cpu>
+		<passmark>12042</passmark>
+		<fps gta5="90" cs2="240" cyberpunk="60"/>
+	</gpu>
+
+	<gpu>
+		<name>RX 9070 XT</name>
+		<cpu>Ryzen 7 9800X3D / Intel Core i7-14700K</cpu>
+		<passmark>26908</passmark>
+		<fps gta5="195" cs2="510" cyberpunk="145"/>
+	</gpu>
+
+	<gpu>
+		<name>RX 9070</name>
+		<cpu>Ryzen 7 9700X / Intel Core i7-14700</cpu>
+		<passmark>25409</passmark>
+		<fps gta5="175" cs2="470" cyberpunk="130"/>
+	</gpu>
+
+	<gpu>
+		<name>RX 9060 XT</name>
+		<cpu>Ryzen 5 9600X / Intel Core i5-14600K</cpu>
+		<passmark>20117</passmark>
+		<fps gta5="150" cs2="390" cyberpunk="100"/>
+	</gpu>
+
+</gpus>

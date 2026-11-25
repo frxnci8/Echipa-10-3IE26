@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>CPU Build Recommender</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Recomandări Build CPU</h1>
+
+    <div class="panel">
+
+        <select id="cpuSelect"></select>
+
+        <div id="buildButtons">
+            <button onclick="openBuild('budget')">Budget Build</button>
+            <button onclick="openBuild('mid')">Mid Range Build</button>
+            <button onclick="openBuild('high')">High End Build</button>
+        </div>
+
+    </div>
+    <p> Sponsorizat de:</p>
+    <img src="https://grgs.ro/images/custom_pages/z/0/logo-h.svg" alt="https://www.pcgarage.ro" width="250" height="100">
+    <br><br />
+    <h2>Cota de piață procesoare</h2>
+
+    <div style="width: 420px; margin: 30px auto;">
+        <canvas id="cpuPieChart"></canvas>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <script>
+        const ctx = document.getElementById('cpuPieChart');
+
+        new Chart(ctx, {
+            type: 'pie',
+            data: {
+                labels: [
+                    "Intel i9-14900K",
+                    "Intel i7-14700K",
+                    "Intel i5-14600K",
+                    "Ryzen 9 9950X",
+                    "Ryzen 7 9700X",
+                    "Ryzen 5 9600X"
+                ],
+                datasets: [{
+                    data: [
+                        18,
+                        22,
+                        26,
+                        10,
+                        14,
+                        10
+                    ],
+                    backgroundColor: [
+                        "#7b68ee",
+                        "#6a5acd",
+                        "#a7c7ff",
+                        "#8a2be2",
+                        "#9370db",
+                        "#b0c4de"
+                    ],
+                    borderColor: "white",
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                plugins: {
+                    legend: {
+                        labels: {
+                            color: "white"
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+    <br><br />
+    <a href="index.html" class="btn">Înapoi</a>
+
+    <script src="cpu.js"></script>
+    <br><br />
+    <footer class="footer"></footer>
+
+    <style>
+        .footer {
+            margin-top: 50px;
+            padding: 20px;
+            background: rgba(255,255,255,0.1);
+            text-align: center;
+            border-top: 1px solid rgba(255,255,255,0.2);
+        }
+    </style>
+</body>
+</html>

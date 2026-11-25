@@ -1,0 +1,168 @@
+﻿<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>PassMark GPU</title>
+
+    <link rel="stylesheet" href="style.css">
+   
+</head>
+<body>
+
+    <h1>GPU PassMark Ranking</h1>
+
+    <table>
+        <tr><th>GPU</th><th>PassMark</th></tr>
+
+        <tr>
+            <td><a href="https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5090&id=5725" target="_blank">RTX 5090</a></td>
+            <td>38958</td>
+        </tr>
+
+        <tr>
+            <td><a href="https://www.videocardbenchmark.net/gpu.php?gpu=RTX+5080" target="_blank">RTX 5080</a></td>
+            <td>35700</td>
+        </tr>
+
+        <tr>
+            <td><a href="https://www.videocardbenchmark.net/gpu.php?gpu=RTX+5070+Ti" target="_blank">RTX 5070 Ti</a></td>
+            <td>32415</td>
+        </tr>
+
+        <tr>
+            <td><a href="https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5070&id=5940" target="_blank">RTX 5070</a></td>
+            <td>28739</td>
+        </tr>
+
+        <tr>
+            <td><a href="https://www.videocardbenchmark.net/gpu.php?gpu=RTX+5060+Ti" target="_blank">RTX 5060 Ti</a></td>
+            <td>22635</td>
+        </tr>
+
+        <tr>
+            <td><a href="https://www.videocardbenchmark.net/gpu.php?gpu=RTX+5060" target="_blank">RTX 5060</a></td>
+            <td>20776</td>
+        </tr>
+
+        <tr>
+            <td><a href="https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+5050&id=6668" target="_blank">RTX 5050</a></td>
+            <td>17110</td>
+        </tr>
+
+        <tr>
+            <td><a href="https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Arc+580" target="_blank">Intel Arc 580</a></td>
+            <td>12042</td>
+        </tr>
+
+        <tr>
+            <td><a href="https://www.videocardbenchmark.net/gpu.php?gpu=RX+9070+XT" target="_blank">RX 9070 XT</a></td>
+            <td>26908</td>
+        </tr>
+
+        <tr>
+            <td><a href="https://www.videocardbenchmark.net/gpu.php?gpu=RX+9070" target="_blank">RX 9070</a></td>
+            <td>25409</td>
+        </tr>
+
+        <tr>
+            <td><a href="https://www.videocardbenchmark.net/gpu.php?gpu=RX+9060+XT" target="_blank">RX 9060 XT</a></td>
+            <td>20117</td>
+        </tr>
+
+    </table>
+
+    <h2>Grafic Performanță GPU</h2>
+
+    <div style="width: 800px; margin: 40px auto;">
+        <canvas id="gpuBarChart"></canvas>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <script>
+        const ctx = document.getElementById('gpuBarChart');
+
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: [
+                    "RTX 5090",
+                    "RTX 5080",
+                    "RTX 5070 Ti",
+                    "RTX 5070",
+                    "RTX 5060 Ti",
+                    "RTX 5060",
+                    "RTX 5050",
+                    "Intel Arc 580",
+                    "RX 9070 XT",
+                    "RX 9070",
+                    "RX 9060 XT"
+                ],
+                datasets: [{
+                    label: 'Performanță (index)',
+                    data: [
+                        38958,
+                        35700,
+                        28739,
+                        32415,
+                        22635,
+                        20776,
+                        17110,
+                        12042,
+                        26908,
+                        25409,
+                        20117
+                    ],
+                    backgroundColor: [
+                        "#7b68ee"
+                    ],
+                    borderColor: "white",
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        labels: {
+                            color: "white"
+                        }
+                    }
+                },
+                scales: {
+                    x: {
+                        ticks: { color: "white" },
+                        grid: { color: "rgba(255,255,255,0.15)" }
+                    },
+                    y: {
+                        beginAtZero: true,
+                        ticks: { color: "white" },
+                        grid: { color: "rgba(255,255,255,0.15)" }
+                    }
+                }
+            }
+        });
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="chart.js"></script>
+
+    <a href="index.html">
+        <button>Înapoi</button>
+    </a>
+    <br ><br />
+    <footer class="footer"></footer>
+
+    <style>
+        .footer {
+            margin-top: 50px;
+            padding: 20px;
+            background: rgba(255,255,255,0.1);
+            text-align: center;
+            border-top: 1px solid rgba(255,255,255,0.2);
+        }
+    </style>
+
+
+</body>
+</html>

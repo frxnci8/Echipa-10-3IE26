@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>Pc match</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Perfect match for your computer</h1>
+        <p>Alege placa video și primești automat CPU recomandat + FPS + performanță.</p>
+    </header>
+
+    <section class="panel">
+
+        <h2>Selectează GPU</h2>
+
+        <select id="gpuSelect"></select>
+
+        <button onclick="showData()">Afișează recomandarea</button>
+
+        <div id="result"></div>
+        <div id="fpsContainer"></div>
+
+        <br><br />
+        <a href="passmark.html" class="btn">
+            ➡ Vezi tabel PassMark
+        </a>
+        <br> <br />
+        <a href="cpu.html" class="btn">➡ Recomandări procesoare</a>
+
+    </section>
+
+    <h1>Vezi ce face fiecare componenta din calculatorul tau</h1>
+
+    <div style="width:600px; margin:40px auto;">
+        <iframe width="100%"
+                height="340"
+                src="https://www.youtube.com/embed/VHhAZx4EvM8"
+                title="YouTube video"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen>
+        </iframe>
+    </div>
+    <script src="script.js"></script>
+    <footer class="footer">
+        <p>Dacă ai probleme, contactează-mă:</p>
+
+        <a class="btn" href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsmGWXBccPWTrvfkdVQGpxNFSQVmCgzRlzWDKFkXvDXplvLCVNpGQhDhcXCHmGjfjnKmzTqB">
+            📧 Trimite email
+        </a>
+    </footer>
+</body>
+</html>

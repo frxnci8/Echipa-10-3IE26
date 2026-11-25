@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cpus>
+
+	<cpu>
+		<name>Intel Core i9-14900K</name>
+		<budget>https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-greuceanu-legendar-prime-v4/</budget>
+		<mid>https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-greuceanu-prime-v4/</mid>
+		<high>https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-greuceanu-legendar-ultra-v3/</high>
+	</cpu>
+
+	<cpu>
+		<name>Intel Core i7-14700K</name>
+		<budget>https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-dragon-elite-alb-nr-v2/</budget>
+		<mid>https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-dragon-elite-se/</mid>
+		<high>https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-greuceanu-epic-max-v5/</high>
+	</cpu>
+
+	<cpu>
+		<name>Intel Core i5-14600K</name>
+		<budget>https://www.pcgarage.ro/sisteme-office-pc-garage/pc-garage/office-manager-boost-v2/</budget>
+		<mid>https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-balaur-legendar-prime-pro-alb-v2/</mid>
+		<high>https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-dragon-epic-alb-v3/</high>
+	</cpu>
+
+	<cpu>
+		<name>Ryzen 9 9950X</name>
+		<budget>https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-greuceanu-se-alb/</budget>
+		<mid>https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-greuceanu-legendar-extra-win-v2/</mid>
+		<high>https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-greuceanu-legendar-ultimate-v4/</high>
+	</cpu>
+
+	<cpu>
+		<name>Ryzen 7 9700X</name>
+		<budget>https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-dragon-legendar-super-plus-v4/</budget>
+		<mid>https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-dragon-pro-v2/</mid>
+		<high>https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-dragon-legendar-super-plus-v3/</high>
+	</cpu>
+
+	<cpu>
+		<name>Ryzen 5 9600X</name>
+		<budget>https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-balaur-pro-alb-ee/</budget>
+		<mid>https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-balaur-prime-ee/</mid>
+		<high>https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-balaur-retro-alb/</high>
+	</cpu>
+
+</cpus>

@@ -1,0 +1,126 @@
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\Proiect Retele.dll.config
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\Proiect Retele.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\Proiect Retele.pdb
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\Proiect Retele.xml
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\csc.exe
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\csc.exe.config
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\csc.rsp
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\csi.exe
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\csi.exe.config
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\csi.rsp
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.AppContext.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Console.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.IO.Compression.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Net.Http.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.ValueTuple.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\vbc.exe
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\vbc.exe.config
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\vbc.rsp
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\VBCSCompiler.exe
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\obj\Debug\Proiect Retele.vbproj.AssemblyReference.cache
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\obj\Debug\Proiect_Retele.Resources.resources
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\obj\Debug\Proiect Retele.vbproj.GenerateResource.cache
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\obj\Debug\Proiect Retele.vbproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\obj\Debug\Proiect .F19D4773.Up2Date
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\obj\Debug\Proiect Retele.dll
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\obj\Debug\Proiect Retele.xml
+C:\Users\rober\Desktop\Proiect Retele\Proiect Retele\obj\Debug\Proiect Retele.pdb
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\Proiect Retele.dll.config
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\Proiect Retele.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\Proiect Retele.pdb
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\Proiect Retele.xml
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\csc.exe
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\csc.exe.config
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\csc.rsp
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\csi.exe
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\csi.exe.config
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\csi.rsp
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.AppContext.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Console.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Net.Http.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\vbc.exe
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\vbc.exe.config
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\vbc.rsp
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\obj\Debug\Proiect Retele.vbproj.AssemblyReference.cache
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\obj\Debug\Proiect_Retele.Resources.resources
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\obj\Debug\Proiect Retele.vbproj.GenerateResource.cache
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\obj\Debug\Proiect Retele.vbproj.CoreCompileInputs.cache
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\obj\Debug\Proiect .F19D4773.Up2Date
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\obj\Debug\Proiect Retele.dll
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\obj\Debug\Proiect Retele.xml
+C:\Users\Ganga\Desktop\Proiect Retele\Proiect Retele\obj\Debug\Proiect Retele.pdb
